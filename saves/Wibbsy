@@ -1,0 +1,7 @@
+playerName:Wibbsy
+level:level2.rb
+items:sword
+skills:take	 Allows you to take something you've found
+skills:use	 Allows you to use an item
+skills:poke	 allows you to poke something
+skills:skills	 shows this menu
